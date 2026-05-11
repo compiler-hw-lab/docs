@@ -17,7 +17,7 @@ This practical course is offered by the [Systems Research Group](https://dse.in.
       - This course is equivalent to the current "Practical Lab: Systems Programming"
     - An equivalent course at another university.
   - *Please submit your Systems Programming grade to the following form by the end of the matching application period.* If you did an equivalent course at another university, please fill the form and add a link to the course's description so we can check this.
-    - **<span background-color="red">TODO:</span>** Link to form
+    - **<span color="red">TODO:</span>** Link to form
 - TUM Online: You must register for this course in TUM Online before the course starts
 - Student note: Compulsory enrollment after two weeks of the matching outcome; students who fail to de-register in this period will be registered for the exam
 
@@ -35,7 +35,7 @@ This course covers compiler and hardware co-design, from compilers, accelerators
 
 ## Meetings
 
-- Preliminary Meeting: **<span background-color="red">TODO</span>**
+- Preliminary Meeting: **<span color="red">TODO</span>**
 
 ## Tasks
 
