@@ -23,15 +23,18 @@ This practical course is offered by the [Systems Research Group](https://dse.in.
 
 ## Course Details
 
-This course covers compiler and hardware co-design, from compilers, accelerators and FPGAs.
-- Compilers: You will learn how to build compiler optimizations with MLIR to detect and optimize operations like matrix multiplications, offloading them to accelerators.
-- Drivers: You will build a driver to communicate with such an accelerator.
-- Accelerators: Finally, you will synthesize an accelerator to offload your operations onto.
+This course covers compiler and hardware co-design across compilers, accelerators, and FPGAs.
+- Compilers: You will build compiler optimizations with MLIR to detect and optimize operations such as matrix multiplications, then offload them to accelerators.
+- Drivers: You will implement a driver that communicates with the accelerator.
+- Accelerators: Finally, you will synthesize an accelerator that executes the offloaded operations.
 
 ## Objectives
 
-- Get familiar and proficient with MLIR
-- ...
+- Build practical experience with MLIR and compiler optimizations.
+- Understand how compiler passes, device drivers, and accelerator hardware fit together in one system.
+- Learn how to move computations from a general-purpose program to dedicated hardware.
+- Gain hands-on experience with FPGA-based accelerator development and integration.
+- Work with the full co-design flow from analysis and transformation to implementation and testing.
 
 ## Meetings
 
@@ -54,7 +57,7 @@ Note that:
 
 ## Environment
 
-Each task gives more details information on runnable environments.
+Each task repository provides more information about the runnable environment.
 
 Note that only the test results on CI count toward grading.
 
@@ -90,4 +93,3 @@ We *strongly* prefer Slack for all communications. For any further questions/com
 
 - Martin Fink: firstname `.` lastname `at` cit.tum.de
 - Prof. Pramod Bhatotia: firstname `.` lastname `at` cit.tum.de
-
