@@ -1,4 +1,4 @@
-# Practical Course: Compiler and Hardware Design (WiSe 2026/2027)
+# Practical Course: Compiler and Hardware Co-Design (WiSe 2026/2027)
 
 This practical course is offered by the [Systems Research Group](https://dse.in.tum.de) at TUM.
 
