@@ -38,7 +38,7 @@ This course covers compiler and hardware co-design across compilers, accelerator
 
 ## Meetings
 
-- Preliminary Meeting: **<span color="red">TODO</span>**
+- Preliminary Meeting: Thursday, 09.07.2026 at 15:00. Meeting link: https://bbb.cit.tum.de/rooms/lpf-mwp-oue-zdy/join
 
 ## Tasks
 
