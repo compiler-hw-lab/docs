@@ -6,7 +6,7 @@ This practical course is offered by the [Systems Research Group](https://dse.in.
 
 - Language: English
 - Type: Practical training
-- Module: IN0012, IN2106, IN2128
+- Module: [IN0012, IN2106, IN2128](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950951054)
   - *(This course is not offered to IN2397)*
 - SWS: 6
 - ECTS Credits: 10
