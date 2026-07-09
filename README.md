@@ -79,17 +79,17 @@ Note that only the test results on CI count toward grading.
 | 109  | 116 | 1.3   |
 | 117  | 120 | 1.0   |
 
-## Slack workspace
+## Communication
 
-We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
+We will use Zulip for all communication.
 
-- **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** `ws2627-compiler-hw-lab`
+- **Zulip:** https://zulip.cit.tum.de
+- **Channel:** [`Compiler-HW-Co-Design — General`](https://zulip.cit.tum.de/#narrow/channel/3698-Compiler-HW-Co-Design-.E2.80.94-General)
 
 
 ## Contact
 
-We *strongly* prefer Slack for all communications. For any further questions/comments, please contact the course organizer(s):
+We *strongly* prefer Zulip for all communications. For any further questions/comments, please contact the course organizer(s):
 
 - Martin Fink: firstname `.` lastname `at` cit.tum.de
 - Prof. Pramod Bhatotia: firstname `.` lastname `at` cit.tum.de
