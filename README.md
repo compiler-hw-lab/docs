@@ -16,7 +16,7 @@ This practical course is offered by the [Systems Research Group](https://dse.in.
     - Practical Lab: Advanced Systems Programming in C/Rust (offered in 2021-2023)
       - This course is equivalent to the current "Practical Lab: Systems Programming"
     - An equivalent course at another university.
-  - *Please submit your Systems Programming grade to the following form by the end of the matching application period.* If you did an equivalent course at another university, please fill the form and add a link to the course's description so we can check this.
+  - *Please submit your Systems Programming grade to the following form by the end of the matching application period.* If you did an equivalent course at another university, please fill the form and add a link to the course's description so we can check this. If you are an exchange student and cannot fill out this form, please contact the instructors (Martin).
     - [Link to form](https://collab.dvb.bayern/spaces/TUMcsel/pages/2752096784/Practical+course+Compiler+and+Hardware+Co-Design+--+WS26+27)
 - TUM Online: You must register for this course in TUM Online before the course starts
 - Student note: Compulsory enrollment after two weeks of the matching outcome; students who fail to de-register in this period will be registered for the exam
