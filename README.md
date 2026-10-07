@@ -46,12 +46,12 @@ This course covers compiler and hardware co-design across compilers, accelerator
 Please refer to the respective task repositories (that are released on the published date) for detail.
 The tasks and schedule may change. **All deadlines are at 15:00 (CEST).**
 
-| Task | Name         | Published on |  Deadline  | Points | Slide |
-| ---- | ------------ | ------------ | ---------- | ------ | ----- |
-|   1  | Hello        | 12.10.2026   | 22.10.2026 |    0   |       |
-|   2  | MLIR         | 22.10.2026   | 19.11.2026 |   40   |       |
-|   3  | Drivers      | 19.11.2026   | 17.12.2026 |   40   |       |
-|   4  | Accelerators | 17.12.2026   | 28.01.2027 |   40   |       |
+| Task | Name         | Published on |  Deadline  | Points | Template | Slides |
+| ---- | ------------ | ------------ | ---------- | ------ | -------- | ------ |
+|   0  | Hello        | 12.10.2026   | 22.10.2026 |    0   | https://gitlab.lrz.de/compiler-hw-lab/tasks/task0-hello | n/a |
+|   1  | MLIR         | 22.10.2026   | 19.11.2026 |   40   |          | |
+|   2  | Drivers      | 19.11.2026   | 17.12.2026 |   40   |          | |
+|   3  | Accelerators | 17.12.2026   | 28.01.2027 |   40   |          | |
 
 Note that:
 - 100% points lost if private tests detect cheating or we find a solution tries to game the system (modifying test scripts, etc.)
