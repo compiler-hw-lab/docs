@@ -49,7 +49,7 @@ The tasks and schedule may change. **All deadlines are at 15:00 (CEST).**
 | Task | Name         | Published on |  Deadline  | Points | Template | Slides |
 | ---- | ------------ | ------------ | ---------- | ------ | -------- | ------ |
 |   0  | Hello        | 12.10.2026   | 22.10.2026 |    0   | https://gitlab.lrz.de/compiler-hw-lab/tasks/task0-hello | n/a |
-|   1  | MLIR         | 22.10.2026   | 19.11.2026 |   40   |          | |
+|   1  | MLIR         | 22.10.2026   | 19.11.2026 |   40   | https://gitlab.lrz.de/compiler-hw-lab/tasks/task1-compilers | [compilers.pdf](./slides/01-compilers.pdf) |
 |   2  | Drivers      | 19.11.2026   | 17.12.2026 |   40   |          | |
 |   3  | Accelerators | 17.12.2026   | 28.01.2027 |   40   |          | |
 
