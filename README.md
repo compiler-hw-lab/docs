@@ -6,6 +6,7 @@ This practical course is offered by the [Systems Research Group](https://dse.in.
 
 - **Tasks:** [Overview and deadlines](#tasks)
 - **Zulip:** [`Compiler-HW-Co-Design — General`](https://zulip.cit.tum.de/#narrow/channel/3698-Compiler-HW-Co-Design-.E2.80.94-General)
+- **Q&A:** [Online Q&A sessions](#qa-sessions)
 - **Grading:** [Grades](#grades)
 - **Contact:** [Contact](#contact)
 
@@ -24,6 +25,14 @@ The tasks and schedule may change. **All deadlines are at 15:00 (CEST).**
 Note that:
 - 100% points lost if private tests detect cheating or we find a solution tries to game the system (modifying test scripts, etc.)
 - 50% points lost if normal private tests fail
+
+## Q&A Sessions
+
+In the usual lecture time slot, we hold online Q&A sessions on weeks without a lecture (no session on 22.10, 19.11, 17.12, and over the holidays on 24.12 and 31.12).
+
+- **First session:** 29.10.2026
+- **Last session:** 21.01.2027
+- **Link:** [BigBlueButton](https://bbb.cit.tum.de/rooms/cgf-jxv-gxd-bpz/join)
 
 ## Environment
 
